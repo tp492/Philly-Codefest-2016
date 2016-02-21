@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Moving Mario",
+    "version": "0.0.1",
+    "app": {
+        "launch": {
+            "web_url": "http://drexelbus.azurewebsites.net/"
+        }
+    },
+    "icons": {
+        "144": "1333021_icon.jpg"
+    }
+}

@@ -1,0 +1,13 @@
+﻿{
+    "start_url": "http://drexelbus.azurewebsites.net/",
+    "short_name": "DrexelbusAzurewebsitesNet",
+    "icons": [
+        {
+            "src": "/1021/1333021_icon.jpg",
+            "sizes": "144x144"
+        }
+    ],
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "name": "Moving Mario"
+}
