@@ -1,0 +1,11 @@
+div#box{
+	width: 20px;
+	height: 20px;
+	position: center;
+	left: 0px;
+	middle: 200px;
+	background-color: #bababa;
+	border-color:#FFFF00;
+	border-style:dashed;
+	border-width: 2px;
+}

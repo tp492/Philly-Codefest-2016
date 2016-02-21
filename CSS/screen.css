@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+!-----------------------------------------------------------------
+body{
+	color:#000000;
+	background:yellow
+	font: 14px Arial, Helvetica, sans-serif;
+}
+!-----------------------------------------------------------------
+#header{
+	background-color:blue;
+	color:black;
+	text-align:center;
+	padding: 5px
+}
+!-----------------------------------------------------------------
+#nav{
+	line-height: 30px;
+	background-color:#FFFF00;
+	height:300px;
+	width: 100px;
+	float:left;
+	padding:5px
+}
+!-----------------------------------------------------------------
+#section{
+	width: 700px;
+	float:left;
+	padding:10px;
+}
+!-----------------------------------------------------------------
+a:link{
+	color: red;
+}
+!-----------------------------------------------------------------
+a:visited{
+	color:purple;
+}
+!-----------------------------------------------------------------
+a:hover{
+	color: orange;
+}
+!-----------------------------------------------------------------
+#footer{
+	background-color:blue;
+	color:blac;
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
+!-----------------------------------------------------------------
+</style>
+</body>
+</html>
